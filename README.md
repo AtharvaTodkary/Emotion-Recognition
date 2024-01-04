@@ -1,2 +1,2 @@
 # Face-Recognition
-Face Recognition using deep learning, TensorFlow and OpenCV
+Face Recognition using deep learning, TensorFlow, Keras and OpenCV.
